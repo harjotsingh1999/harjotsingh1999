@@ -4,13 +4,14 @@ harjotsingh1999/harjotsingh1999 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://github.com/harjotsingh1999/harjotsingh1999/blob/main/animation_640_krq4hfqm.gif?raw=true" width="500" height="500" />
-Hi, i'm Harjot Singh, a passionate self-taught mobile app developer from India.
-</br>
+
+### Hi, I'm **Harjot Singh**, a passionate self-taught mobile app developer from India.
+
 </br>
   
-- 💼 Reach out to me on: [email](mailto:asingh.harjot@gmail.com) :)  
+- ### 💼 Reach out to me on [email](mailto:asingh.harjot@gmail.com) :)  
 
 
 - <a href="https://www.linkedin.com/in/harjot-chawla/">
@@ -20,25 +21,33 @@ Hi, i'm Harjot Singh, a passionate self-taught mobile app developer from India.
 
 </br>
 
-**I have worked on:** 
+## Languages I have worked with: 
 
 </br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-</br>
-</br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+</br>
+</br>
+
+
+## Tools, Technologies and Frameworks:
+</br>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 
 </br>
 </br>
 
-**I am currently dabbling with**
+## I am currently dabbling with:
 
 </br>
 
