@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - <a href="https://www.linkedin.com/in/harjot-chawla/">
-  <img align="left" alt="Harjot's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Harjot's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
